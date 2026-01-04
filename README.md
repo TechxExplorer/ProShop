@@ -1,6 +1,3 @@
-
-<img width="904" height="592" alt="image" src="https://github.com/user-attachments/assets/fd249dc1-031a-4420-af38-a1578351b4cf" />
-
 # 🛒 ECommerce-Proshop Full-Stack Web Application
 
 ![React](https://img.shields.io/badge/Frontend-React.js-61DBFB?logo=react\&logoColor=white)
@@ -155,9 +152,11 @@ Open browser → `http://localhost:5173`
 
 
  -->Item Listing Page 
+ 
  <img width="230" height="760" alt="image" src="https://github.com/user-attachments/assets/b035a617-b8de-42f8-9675-4c34ee9b03e1" />
 
  -->Cart Page
+ 
 <img width="231" height="758" alt="image" src="https://github.com/user-attachments/assets/40fa9340-ffb9-41fc-9351-af467f00f54c" />
 
 
